@@ -1,4 +1,4 @@
-## Weakly Supervised Object Detection
+## A Simple Weakly Supervised Object Detection
 
 ### Demo:
 
