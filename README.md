@@ -1,12 +1,12 @@
-## A Simple Weakly Supervised Object Detection
+# A Toy Weakly Supervised Object Detection using CAM
 
-### Demo:
+## Demo:
 
-![](demo.jpeg)
+[demo](demo.png)
 
 
 
-### Usage
+## Usage
 
 - 准备分类数据集
 - 训练分类模型
