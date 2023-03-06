@@ -11,3 +11,6 @@
 *.log
 *__pycache__*
 *ckpt*
+*.xml*
+data/*
+*.yaml
